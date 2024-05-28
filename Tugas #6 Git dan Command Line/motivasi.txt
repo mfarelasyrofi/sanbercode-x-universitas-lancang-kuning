@@ -1,0 +1,3 @@
+Halo Sanbercode-Mate, Saya Muhamad Farel Asyrofi
+
+Saya antusias mengikuti bootcamp Laravel Web Dev karena saya yakin ini akan membuka peluang baru dalam karier saya. Saya tertarik dengan kecepatan dan kemudahan pengembangan yang ditawarkan oleh Laravel. Harapannya, setelah bootcamp ini, saya bisa menguasai Laravel sepenuhnya dan mengembangkan aplikasi web yang canggih. Saya juga berharap bisa memperluas jaringan profesional saya di komunitas pengembang Laravel."
